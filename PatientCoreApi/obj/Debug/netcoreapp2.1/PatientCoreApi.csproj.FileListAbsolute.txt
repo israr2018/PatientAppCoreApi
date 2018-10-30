@@ -1,0 +1,14 @@
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.csprojAssemblyReference.cache
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\bin\Debug\netcoreapp2.1\PatientCoreApi.deps.json
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\bin\Debug\netcoreapp2.1\PatientCoreApi.runtimeconfig.json
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\bin\Debug\netcoreapp2.1\PatientCoreApi.runtimeconfig.dev.json
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\bin\Debug\netcoreapp2.1\PatientCoreApi.dll
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\bin\Debug\netcoreapp2.1\PatientCoreApi.pdb
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.csproj.CoreCompileInputs.cache
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.RazorAssemblyInfo.cache
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.RazorAssemblyInfo.cs
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.AssemblyInfoInputs.cache
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.AssemblyInfo.cs
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.RazorTargetAssemblyInfo.cache
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.dll
+C:\Asp.netCoreProjects\PatientCoreApi\PatientCoreApi\obj\Debug\netcoreapp2.1\PatientCoreApi.pdb
